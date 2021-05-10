@@ -1,0 +1,2 @@
+# nateTypeScript
+learn typescript
